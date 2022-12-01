@@ -1,0 +1,36 @@
+.nav {
+    padding-bottom: 95px;
+    padding-top: 45px;
+}
+li {
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color: #062D3E;
+}
+.title-div .title{
+    font-size: 1.5em;
+    letter-spacing: 0.01em;   
+    color: #062D3E;
+}
+.li-elements .link{
+    display: inline-block;
+    margin-right: 44px;
+    font-size: 1em;
+}
+.nav .center-this-shit{
+    display: flex;
+    justify-content: space-around;
+}
+.div-a .sign-up {
+    text-decoration: none;
+    border: 1px solid white;
+    font-size: 2.5em;
+    padding: 38px 76px;
+    border-radius: 50px;
+    color: white;
+}
+a:hover{
+    color:aquamarine;
+}

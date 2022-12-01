@@ -1,0 +1,112 @@
+.whole {
+    background-color: #EBE3CC;
+}
+.boxes {
+    display: flex;
+    justify-content:center;
+    padding-bottom: 100px;
+}
+.whole .service-title {
+    font-size: 2.8em;
+    margin-left: 15%;
+    padding-top: 98px;
+}
+.first {
+   background-color: #FBBD08;
+   margin-right: 30px;
+   width: 37%;
+   border-radius: 50px;
+}
+.second {
+    border: 1px solid #224453;
+    width: 37%;
+    border-radius: 50px;
+}
+.logo-div {
+    margin-top: 60px;
+    margin-left: 32px;
+    margin-bottom: 36px;
+    display: inline-block;
+    padding: 20px;
+    background-color: #EBE3CC;
+    border: 1px solid #EBE3CC;
+    border-radius: 50%;
+}
+.logo-div2 {
+    margin-bottom: 36px;
+    margin-left: 32px;
+    margin-top: 60px;
+    display: inline-block;
+    background-color : #FBBD08;
+    border-radius:50%;
+    padding: 20px;
+}
+.text-div {
+    margin-left: 32px;
+    padding: 0;
+}
+.text-div2{
+    margin-left: 32px;
+}
+.boxes h3 {
+    font-size: 1.6em;
+    margin-bottom: 16px;
+    display: inline-block;
+}
+.boxes p {
+    font-size: 1.25em;
+    margin-bottom: 38px;
+}
+.explore a{
+    color: #EBE3CC;
+    text-decoration: none;
+    font-size: 1.25em;
+    border: 1px solid #ED5C01;
+    padding: 1em 2.5em;
+    background-color:#062D3E;
+    border-radius: 50px;
+    margin-bottom: 122px; 
+}
+.explore-2 a{
+    color: #224453;
+    text-decoration: none;
+    font-size: 1.25em;
+    border: 1px solid #062D3E;
+    padding: 1em 2.5em;
+    border-radius: 50px; 
+}
+.first .explore {
+    margin-bottom: 122px;
+    display: inline-block;
+}
+.second .explore-2 {
+    display: inline-block;
+}
+.arrow-button {
+    padding-bottom: 100px;
+    text-align: right;
+    margin-right: 12%;
+}
+.container1 {
+    display: inline-block;
+    background-color: #062D3E;
+    padding: 10px 25px;
+    border-radius: 50%;
+}
+.container1 img {
+    width: 100%;
+    height: auto;
+}
+.container2 img {
+    width: 100%;
+    height: auto;
+}
+.container2 {
+    display: inline-block;
+    background-color: #062D3E;
+    padding: 10px 25px;
+    border-radius: 50%;
+}
+a:hover{
+    color:aquamarine;
+}

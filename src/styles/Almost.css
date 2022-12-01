@@ -1,0 +1,44 @@
+.number1 {
+    background: url(../assets/Vector\ \(7\).png); 
+    background-repeat: no-repeat;
+    width: 50%;
+    background-position-x:center;
+    background-position-y:center;
+    background-color: #FBBD08;
+    margin-left: 0%;
+}
+.almost-div {
+    margin-top: 132px;
+    display: flex;
+}
+.number1 .layer{
+    margin-left: 35%;
+}
+.number2 {
+    background: url(../assets/Vector\ \(8\).png);
+    background-repeat: no-repeat;
+    background-position-x:100%;
+    background-position-y: center;
+    background-color: #ED5C01;
+    width: 50%;
+}
+.number2 h3 {
+    font-size: 2.8em;
+    margin-left:65px;
+}
+.number2 .mail a{
+    text-decoration: none;
+    font-size: 1.62em;
+    color: white;
+    margin-left: 64px;
+}
+.number2 .mail {
+    margin-top: 65px;
+}
+.mail .empty {
+    margin-top: 20px;
+    margin-left: 64px;
+    width: 60%;
+    height: 1px;
+    background-color: white;
+}

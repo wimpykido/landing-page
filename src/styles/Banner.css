@@ -1,0 +1,52 @@
+.banner {
+    display: flex;
+    justify-content:center;
+}
+.inside-banner {
+    display: inline-block;
+    width: 54%;
+}
+.text .more{
+    color: #FCEFE2;
+    text-decoration: none;
+    font-size: 30px;
+    border: 1px solid #ED5C01;
+    padding: 1em 2.5em;
+    background-color: #ED5C01;
+    border-radius: 50px; 
+}
+a:hover{
+    color:aquamarine;
+}
+.banner-text {
+    margin-top: 0%;
+    color: #062D3E;
+    letter-spacing: -0.05em;
+    text-transform: uppercase;
+    font-size: 6em;
+    margin-bottom: 11%;
+}
+.red-text {
+    color: #ED5C01;
+}
+.smalltext .pdiv{
+    display: inline-block;
+}
+.smalltext p{
+    font-size: 1.5em;
+    padding-left: -15px;
+    color: #189CAB;
+}
+.smalltext {
+    width: 26%;
+}
+.smalltext .arrow-div {
+    display: inline-block;
+}
+.dogodiv {
+    width: 31em;
+}
+.dogodiv img {
+    width: 100%;
+    height: auto;
+}

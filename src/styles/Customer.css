@@ -1,0 +1,80 @@
+.mdzime {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+.image2 {
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+.photo-comp {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.neta-ras-aketeb {
+    position: absolute;
+    top: -60px;
+    left: 500px;
+}
+.smiling-guy {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 40%;
+}
+.with-background {
+    margin-left: 65px;
+    margin-top: 14px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.image8 {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.customer-text {
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+.another-whole {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.whole-texts h3 {
+    margin-top: 100px;
+    font-size: 2.8em;
+    margin-left: 65px;
+} 
+.whole-texts p{
+    font-size: 1.37em;
+}
+.arrow-button2 {
+    text-align: right;
+}
+.container3 {
+    display: inline-block;
+    background-color: #062D3E;
+    padding: 10px 25px;
+    border-radius: 50%;
+}
+.container4 {
+    display: inline-block;
+    background-color: #062D3E;
+    padding: 10px 25px;
+    border-radius: 50%;
+}
+a:hover{
+    color:aquamarine;
+}

@@ -1,0 +1,46 @@
+.pet-div {
+    background-color: #189CAB;
+    display: flex;
+    justify-content: center;
+}
+.pet-div .pet-text {
+    margin-left: 63px;
+    margin-top: 111px;
+}
+.pet-div .pet-text h3 {
+    font-size: 2.8em;
+    color: #EBE3CC;
+}
+.pet-div .pet-text p{
+    font-size: 1.37em;
+    margin-bottom: 25px;
+    color: #EBE3CC;
+}
+.pet-div .pet-text ul li{
+    color: #EBE3CC;
+    list-style: circle;
+    font-size: 1.37em;
+}
+.pet-div .pet-more a{
+    text-decoration: none;
+    color: #FCEFE2;
+    font-size: 1.5em;
+    border: 1px solid #062D3E;
+    padding: 12px 32px;
+    background-color: #062D3E;
+    border-radius: 50px;
+}
+.pet-div .pet-more {
+    margin-top: 38px;
+    margin-bottom: 127px;
+}
+.pet-div .pet1 {
+    margin-top: 100px;
+    margin-right: 132px;
+    width: 25%;
+    height: auto;
+}
+a:hover{
+    color:aquamarine;
+}
+    
