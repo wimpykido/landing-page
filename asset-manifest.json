@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.72433f86.css",
+    "main.js": "/landing-page/static/js/main.f4e65917.js",
+    "static/media/Group 143725940.svg": "/landing-page/static/media/Group 143725940.626cf0f7307b3830bd68feac6f7cca25.svg",
+    "static/media/Union.png": "/landing-page/static/media/Union.44474c6431d0ec58c9a1.png",
+    "static/media/Group 143725924.png": "/landing-page/static/media/Group 143725924.a7779f4f1f91c2ae5172.png",
+    "static/media/Rectangle 21868.png": "/landing-page/static/media/Rectangle 21868.4b1cdb31acbf21fe313c.png",
+    "static/media/89253.png": "/landing-page/static/media/89253.d0fdc80752c80da73a55.png",
+    "static/media/Vector (8).png": "/landing-page/static/media/Vector (8).213bb9154d4b7c7e88cc.png",
+    "static/media/Vector.svg": "/landing-page/static/media/Vector.ab9103d218972904f85817768b3442e5.svg",
+    "index.html": "/landing-page/index.html",
+    "main.72433f86.css.map": "/landing-page/static/css/main.72433f86.css.map",
+    "main.f4e65917.js.map": "/landing-page/static/js/main.f4e65917.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72433f86.css",
+    "static/js/main.f4e65917.js"
+  ]
+}
